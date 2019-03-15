@@ -10,6 +10,7 @@
  * CONTENTS : Firmware Version
  *
  * FIRMWARE CHANGE HISTORY:
+ * v0.14A (03/15/2019) : Test Git.
  * v0.13A (03/13/2019) : Added DC-DC Enable Pin2.3 assignment.(io_port & chip_lib)
  * v0.12A (01/08/2019) : Changed Tx EQ, Rx Emph value to be linked to RS states.
  * v0.11A (05/25/2018) : Remove DDMI_UPDATE_FLAG (Main.c)
